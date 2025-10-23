@@ -1,0 +1,14 @@
+material AG15_7.002
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture AG15brn1.png
+                filtering anisotropic
+            }
+        }
+    }
+}
